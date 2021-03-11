@@ -2,6 +2,8 @@
 
 Welcome to my Github. I'm [Talha Rahman](https://www.linkedin.com/in/talha-rahman). I try my best to code things, but I mostly just say ~~bad~~ jokes.
 
+Checkout my portfolio: https://talhar.github.io/
+
 🎓 Senior Computer Science Major @ Hunter 
 
 🔭 I’m currently working on: Getting hired
@@ -12,13 +14,13 @@ Welcome to my Github. I'm [Talha Rahman](https://www.linkedin.com/in/talha-rahma
 
 
 <details>
-<summary>Expand: More About Me...</summary>
+<summary>Expand: About Me...</summary>
 <p>
 
 ```javascript
 const Talha = {
-  languages: [C++, Java, Python, Swift, HTML/CSS, Javascript, SQL],
-  tools: [Git, Bootstrap, React],
+  languages: [C++, Java, Python, Swift, Javascript, HTML/CSS, SQL],
+  technologies: [React, Bootstrap, Git, Linux],
 };
 ```
 </p>
