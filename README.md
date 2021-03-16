@@ -2,7 +2,7 @@
 
 Welcome to my Github. I'm [Talha Rahman](https://www.linkedin.com/in/talha-rahman). I try my best to code things, but I mostly just say ~~bad~~ jokes.
 
-Checkout my portfolio: https://talhar.github.io/
+Checkout my website: https://talhar.github.io/
 
 🎓 Senior Computer Science Major @ Hunter 
 
