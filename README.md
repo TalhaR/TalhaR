@@ -20,7 +20,7 @@ Checkout my website: https://talhar.github.io/
 ```javascript
 const Talha = {
   languages: [C++, Java, Python, Swift, Javascript, HTML/CSS, SQL],
-  technologies: [React, Bootstrap, Git, Linux],
+  technologies: [React, Node, Git, Linux],
 };
 ```
 </p>
