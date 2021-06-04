@@ -4,7 +4,7 @@ Welcome to my Github. I'm [Talha Rahman](https://www.linkedin.com/in/talha-rahma
 
 Checkout my website: https://talhar.github.io/
 
-🎓 Senior Computer Science Major @ Hunter 
+🎓 B.A in Computer Science @ Hunter College
 
 🔭 I’m currently working on: Getting hired
 
@@ -19,7 +19,7 @@ Checkout my website: https://talhar.github.io/
 
 ```javascript
 const Talha = {
-  languages: [C++, Java, Python, Swift, Javascript, HTML/CSS, SQL],
+  languages: [C++, Java, Python, Swift, Javascript, HTML, CSS, SQL],
   technologies: [React, Node, Git, Linux],
 };
 ```
