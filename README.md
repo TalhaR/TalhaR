@@ -1,8 +1,6 @@
 ### 👋🏼 Hey There!
 
-Welcome to my Github. I'm [Talha Rahman](https://www.linkedin.com/in/talha-rahman). I try my best to code things, but I mostly just say ~~bad~~ jokes.
-
-Checkout my website: https://talhar.github.io/
+I'm [Talha Rahman](https://www.linkedin.com/in/talha-rahman). I try my best to code things, but I mostly just say ~~bad~~ jokes.
 
 🎓 B.A in Computer Science @ Hunter College
 
@@ -20,7 +18,7 @@ Checkout my website: https://talhar.github.io/
 ```javascript
 const Talha = {
   languages: [C++, Java, Python, Swift, Javascript, HTML, CSS, SQL],
-  technologies: [React, Node, Git, Linux],
+  technologies: [ReactJS, NodeJS, Git, Linux],
 };
 ```
 </p>
