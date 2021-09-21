@@ -4,7 +4,7 @@ I'm [Talha Rahman](https://www.linkedin.com/in/talha-rahman). I try my best to c
 
 🎓 B.A in Computer Science @ Hunter College
 
-🔭 I’m currently working on: Getting hired
+🔭 I’m currently working on: Being a productive member of society
 
 💬 Ask me about: `PCs` `Guitars` `What I'm struggling with this week` `Anime`
 
