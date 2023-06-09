@@ -1,6 +1,6 @@
 ### 👋🏼 Hey There!
 
-I'm Talha. I like to code stuff, but mostly just say ~~bad~~ jokes.
+I like to code stuff, but mostly just say ~~bad~~ jokes.
 
 Supposedly, it's a pleasure to connect with me on [Linkedin](https://www.linkedin.com/in/talha-rahman) 😎
 
