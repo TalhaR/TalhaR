@@ -1,8 +1,8 @@
 ### 👋🏼 Hey There!
 
-I'm [Talha Rahman](https://www.linkedin.com/in/talha-rahman). I try my best to code things, but I mostly just say ~~bad~~ jokes.
+I'm Talha. I like to code stuff, but mostly just say ~~bad~~ jokes.
 
-Supposedly, it's a pleasure to connect with me on Linkedin 😎
+Supposedly, it's a pleasure to connect with me on [Linkedin](https://www.linkedin.com/in/talha-rahman) 😎
 
 <details>
 <summary>Expand: About Me...</summary>
